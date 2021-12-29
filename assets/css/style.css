@@ -1007,7 +1007,7 @@ section {
 
 /* Style buttons */
 .btn {
-  background-color: DodgerBlue;
+  background-color: #16df7e;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -1017,5 +1017,5 @@ section {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: rgb(65, 225, 73);
 }
